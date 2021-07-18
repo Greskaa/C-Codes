@@ -14,6 +14,6 @@ int main()
         if (number < min)
             min = number;
     }
-    printf ("Maximum number iS: %d\nMinimum number is: %d", max, min);
+    printf ("Maximum number is: %d\nMinimum number is: %d", max, min);
     return 0;
 }
