@@ -5,6 +5,7 @@ int main()
 {
     int start, finish, digit;
     int firstDigit, lastDigit;
+    
     printf ("Enter start value: "); scanf("%d", &start);
     printf ("Enter finish value: "); scanf("%d", &finish);
     for (start; start <= finish; start++)
