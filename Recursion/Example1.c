@@ -16,7 +16,7 @@ int main()
 {
     int number;
     printf ("Enter number: "); scanf("%d", &number);
-    printf ("%d  ", printNumbers(number));
+    printNumbers(number);
     
     return 0;
 }
